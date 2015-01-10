@@ -1,0 +1,10 @@
+{
+  "name": "Binary-Watch",
+  "version": "0.0.1",
+  "private": true,
+  "description": "A binary watch for Arduino build on johnny five",
+  "author": "Benjamin August <benji889@yahoo.de>",
+  "dependencies": {
+    "johnny-five": ">=0.8.*"
+  }
+}
